@@ -31,10 +31,8 @@ Through interactive visualizations, the analysis explores how demographic factor
 
 ## Dashboard
 > **<img width="624" height="522" alt="image" src="https://github.com/user-attachments/assets/320878a6-e588-4124-9412-d5d2f39185b5" />
-**  
-> Example:  
-> ![Dashboard Preview](images/dashboard_overview.png)
-
+**
+> 
 ---
 
 ## Project Overview
